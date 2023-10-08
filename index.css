@@ -1,0 +1,12 @@
+.bgcontainer{background-image:url(https://cdn.pixabay.com/photo/2018/01/24/18/05/background-3104413_1280.jpg);
+             height:100vh;
+             width:100vw;
+             background-size:cover; }
+.card-container{background-color: white;
+ text-align: center;
+ border-top-left-radius:5px ;
+ border-top-right-radius:5px ;
+
+ }
+ 
+ .head{color: blue;}
